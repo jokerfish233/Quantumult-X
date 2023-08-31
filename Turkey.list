@@ -1,0 +1,11 @@
+# Update time : 2023.08.31
+
+# Sipay
+DOMAIN-SUFFIX,spyw-rg1-mobileapi.walletgate.io,Turkey
+DOMAIN-SUFFIX,staticmedia.walletgate.io,Turkey
+DOMAIN-SUFFIX,cms.walletgate.io,Turkey
+DOMAIN-SUFFIX,spyw-idsapi.walletgate.io,Turkey
+
+# Ozan
+DOMAIN-SUFFIX,op-prod-tr.ozan.com,Turkey
+DOMAIN,sdkapi,netmera.com,Turkey
