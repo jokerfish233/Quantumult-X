@@ -2,10 +2,7 @@
 
 # Sipay
 DOMAIN-SUFFIX,spyw-rg1-mobileapi.walletgate.io,Turkey
-DOMAIN-SUFFIX,staticmedia.walletgate.io,Turkey
-DOMAIN-SUFFIX,cms.walletgate.io,Turkey
-DOMAIN-SUFFIX,spyw-idsapi.walletgate.io,Turkey
-DOMAIN-SUFFIX,api-gw-openbanking.walletgate.io,Turkey
+DOMAIN-SUFFIX,walletgate.io,Turkey
 
 # Ozan
 DOMAIN-SUFFIX,op-prod-tr.ozan.com,Turkey
